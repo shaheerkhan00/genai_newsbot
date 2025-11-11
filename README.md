@@ -1,4 +1,4 @@
-# RockyBot: News Research Tool 📈
+#  News Research Tool 📈
 
 News Bot is an AI-powered news research tool that processes news articles from URLs and allows you to ask questions about their content using Retrieval-Augmented Generation (RAG).
 
